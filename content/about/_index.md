@@ -6,6 +6,25 @@ description: 'A few years ago, while visiting or, rather, rummaging about Notre-
 featured_image: ''
 
 ---
-{{< figure src="/images/Victor_Hugo-Hunchback.jpg" title="Illustration from Victor Hugo et son temps (1881)" >}}
+Formation :
 
-_The Hunchback of Notre-Dame_ (French: _Notre-Dame de Paris_) is a French Romantic/Gothic novel by Victor Hugo, published in 1831. The original French title refers to Notre Dame Cathedral, on which the story is centered. English translator Frederic Shoberl named the novel The Hunchback of Notre Dame in 1833 because at the time, Gothic novels were more popular than Romance novels in England. The story is set in Paris, France in the Late Middle Ages, during the reign of Louis XI.
+* 2019/2020 :Bac Littéraire au lycée Val de Seine
+* BAFA en cours de formation
+* 2020/2021 : A1 Normandie Web School
+
+Expériences :
+
+J'ai travaillé dans un centre aérée pendant un mois en tant qu'animatrice avec des enfants de 3/4 ans.
+
+Compétences :
+
+* A l'écoute des autres
+* Patiente
+
+Loisirs :
+
+J'ai fais de la danse classique de l'age de 4 ans jusqu'à mes 11/12 ans, ensuite j'ai fais du hip hop et aujourd'hui je fais de la ragga dancehall depuis 3 ans.
+
+Contact :
+
+* normandiewebschool.fr
