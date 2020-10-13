@@ -2,7 +2,6 @@
 date = 2020-10-13T07:50:38Z
 description = ""
 disable_share = false
-draft = true
 featured_image = "/images/notebook.jpg"
 tags = []
 title = "Moi"
