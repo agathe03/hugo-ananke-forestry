@@ -19,8 +19,8 @@ J'ai travaillé dans un centre aérée pendant un mois en tant qu'animatrice ave
 
 Compétences :
 
-* A l'écoute des autres 
-* Patiente 
+* A l'écoute des autres
+* Patiente
 
 Loisirs :
 
