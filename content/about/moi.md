@@ -2,9 +2,10 @@
 date = 2020-10-13T07:50:38Z
 description = ""
 disable_share = false
+draft = true
 featured_image = "/images/notebook.jpg"
 tags = []
-title = "Moi"
+title = "Agathe Boimare"
 
 +++
 Formation :
@@ -19,8 +20,8 @@ J'ai travaillé dans un centre aérée pendant un mois en tant qu'animatrice ave
 
 Compétences :
 
-* A l'écoute des autres
-* Patiente
+* A l'écoute des autres 
+* Patiente 
 
 Loisirs :
 
